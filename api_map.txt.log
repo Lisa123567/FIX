@@ -1,0 +1,3206 @@
+* trying to open and read: /home/larisa/my_version/v3911/api_map.txt
+processing line --- "order=market"
+processing line --- "timeinforce=day"
+processing line --- "side=buy"
+processing line --- "instrument=EURUSD"
+processing line --- "quantity=1000000"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=EURUSD  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=market"
+processing line --- "timeinforce=day"
+processing line --- "side=sell"
+processing line --- "instrument=EURUSD"
+processing line --- "quantity=2000000"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=EURUSD  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=5"
+processing line --- "order=market"
+processing line --- "timeinforce=day"
+processing line --- "side=buy"
+processing line --- "instrument=USDJPY"
+processing line --- "quantity=1000000"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=USDJPY  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=market"
+processing line --- "timeinforce=day"
+processing line --- "side=sell"
+processing line --- "instrument=USDJPY"
+processing line --- "quantity=2000000"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=USDJPY  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=GBPUSD  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=GBPUSD  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10"
+processing line --- "order=market"
+processing line --- "timeinforce=day"
+processing line --- "side=buy"
+processing line --- "instrument=GBPUSD"
+processing line --- "quantity=1000000"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=USDCHF  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=USDCHF  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=AUDUSD  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=AUDUSD  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=5  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=USDMXN  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=market"
+processing line --- "timeinforce=day"
+processing line --- "side=sell"
+processing line --- "instrument=USDMXN"
+processing line --- "quantity=2000000"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=USDMXN  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=market"
+processing line --- "timeinforce=day"
+processing line --- "side=sell"
+processing line --- "instrument=USDRUB"
+processing line --- "quantity=2000000"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=5"
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=USDRUB  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=USDRUB  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=EURCZK  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=market"
+processing line --- "timeinforce=day"
+processing line --- "side=sell"
+processing line --- "instrument=EURCZK"
+processing line --- "quantity=2000000"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=EURCZK  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=USDMXN  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=USDMXN  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=USDCHF  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=USDCHF  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "wait=10  "
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=buy  "
+processing line --- "instrument=USDZAR  "
+processing line --- "quantity=1000000"
+processing line --- "limit_price=-1"
+processing line --- ""
+empty line  -- ""
+processing line --- "order=limit  "
+processing line --- "timeinforce=day  "
+processing line --- "side=sell  "
+processing line --- "instrument=USDZAR  "
+processing line --- "quantity=2000000  "
+processing line --- "limit_price=-1"
+####################################*
+
+i = 0
+order_type = ORDER_MARKET
+instrument = EURUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 1
+order_type = ORDER_LIMIT
+instrument = EURUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 2
+order_type = ORDER_MARKET
+instrument = EURUSD
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 3
+order_type = ORDER_LIMIT
+instrument = EURUSD
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 4
+order_type = ORDER_MARKET
+instrument = USDJPY
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 5
+order_type = ORDER_LIMIT
+instrument = USDJPY
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 6
+order_type = ORDER_MARKET
+instrument = USDJPY
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 7
+order_type = ORDER_LIMIT
+instrument = USDJPY
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 8
+order_type = ORDER_LIMIT
+instrument = GBPUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 9
+order_type = ORDER_LIMIT
+instrument = GBPUSD
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 10
+order_type = ORDER_MARKET
+instrument = GBPUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 11
+order_type = ORDER_LIMIT
+instrument = USDCHF
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 12
+order_type = ORDER_LIMIT
+instrument = USDCHF
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 13
+order_type = ORDER_LIMIT
+instrument = AUDUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 14
+order_type = ORDER_LIMIT
+instrument = AUDUSD
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 15
+order_type = ORDER_LIMIT
+instrument = USDMXN
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 16
+order_type = ORDER_MARKET
+instrument = USDMXN
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 17
+order_type = ORDER_LIMIT
+instrument = USDMXN
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 18
+order_type = ORDER_MARKET
+instrument = USDRUB
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 19
+order_type = ORDER_LIMIT
+instrument = USDRUB
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 20
+order_type = ORDER_LIMIT
+instrument = USDRUB
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 21
+order_type = ORDER_LIMIT
+instrument = EURCZK
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 22
+order_type = ORDER_MARKET
+instrument = EURCZK
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 23
+order_type = ORDER_LIMIT
+instrument = EURCZK
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 24
+order_type = ORDER_LIMIT
+instrument = USDMXN
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 25
+order_type = ORDER_LIMIT
+instrument = USDMXN
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 26
+order_type = ORDER_LIMIT
+instrument = USDCHF
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 27
+order_type = ORDER_LIMIT
+instrument = USDCHF
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 28
+order_type = ORDER_LIMIT
+instrument = USDZAR
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+i = 29
+order_type = ORDER_LIMIT
+instrument = USDZAR
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+cancel = -1
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+####################################*
+
+No cpus defined for client algo
+Connecting
+Connected
+Subscribed to EURUSD
+Subscribed to USDJPY
+Subscribed to GBPUSD
+Subscribed to USDCHF
+Subscribed to AUDUSD
+Subscribed to USDMXN
+Subscribed to USDRUB
+Subscribed to EURCZK
+Subscribed to USDZAR
+Subscriptions list:
+
+Fixation's risk is ready.
+
+i = 0
+order_type = ORDER_MARKET
+instrument = EURUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ORDER_MARKET request
+after order.createOrder -- >ORDER_MARKET request
+instrument: EURUSD
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 0
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  marketOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000001x0001x0000
+Order getOrderSentTime returned: 20180206-08:24:28.583447
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000001x0001x0000 execution report:EXEC_REPORT_REJECTED order status:ORDER_STATUS_REJECTED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:Order type is unsupported. supported values: 2
+instrumentFhHandle: 0
+instrumentName: EURUSD
+orderId: P3PZCNx54x0000001x0001x0000
+orgOrderId: 
+execId: 20180206-08:24:28.587190-381
+execType: EXEC_REPORT_REJECTED
+orderStatus: ORDER_STATUS_REJECTED
+rejectReason: REJECT_REASON_BROKER_OPTION
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 0
+cumQuantity: 0
+placePrice: -1
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:24:28.587
+rule_id: OK
+secondaryOrderId: 
+secondaryClOrdId: 
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 1
+order_type = ORDER_LIMIT
+instrument = EURUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for EURUSD
+Top of book: {
+ Ask: 12421000 Quantity: 12000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: EURUSD
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 12421000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000002x0002x0000
+Order getOrderSentTime returned: 20180206-08:24:48.587577
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000002x0002x0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 0
+instrumentName: EURUSD
+orderId: P3PZCNx54x0000002x0002x0000
+orgOrderId: 
+execId: 12fd7a5c-8096-0000-0052-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 12421000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:24:48.641
+rule_id: OK
+secondaryOrderId: 56740
+secondaryClOrdId: P3MUFRx12x0094096x0M1Fx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000002x0002x0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 0
+instrumentName: EURUSD
+orderId: P3PZCNx54x0000002x0002x0000
+orgOrderId: 
+execId: 12fd7a5c-8096-0000-0052-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 12421000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 12421000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:24:48.641
+rule_id: OK
+secondaryOrderId: 56740
+secondaryClOrdId: P3MUFRx12x0094096x0M1Fx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 2
+order_type = ORDER_MARKET
+instrument = EURUSD
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ORDER_MARKET request
+after order.createOrder -- >ORDER_MARKET request
+instrument: EURUSD
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 12421000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  marketOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000003x0003x0000
+Order getOrderSentTime returned: 20180206-08:25:08.591813
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000003x0003x0000 execution report:EXEC_REPORT_REJECTED order status:ORDER_STATUS_REJECTED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:Order type is unsupported. supported values: 2
+instrumentFhHandle: 0
+instrumentName: EURUSD
+orderId: P3PZCNx54x0000003x0003x0000
+orgOrderId: 
+execId: 20180206-08:25:08.595587-384
+execType: EXEC_REPORT_REJECTED
+orderStatus: ORDER_STATUS_REJECTED
+rejectReason: REJECT_REASON_BROKER_OPTION
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 0
+cumQuantity: 0
+placePrice: -1
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:25:08.595
+rule_id: OK
+secondaryOrderId: 
+secondaryClOrdId: 
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 3
+order_type = ORDER_LIMIT
+instrument = EURUSD
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 5
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for EURUSD
+Top of book: {
+ Bid: 12422000 Quantity: 6000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: EURUSD
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 12422000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 5
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000004x0004x0000
+Order getOrderSentTime returned: 20180206-08:25:28.595894
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000004x0004x0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 0
+instrumentName: EURUSD
+orderId: P3PZCNx54x0000004x0004x0000
+orgOrderId: 
+execId: 12fd7a5c-80ae-0000-0054-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 12422000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:25:28.639
+rule_id: OK
+secondaryOrderId: 56761
+secondaryClOrdId: P3MUFRx12x0094100x0M1Jx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000004x0004x0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 0
+instrumentName: EURUSD
+orderId: P3PZCNx54x0000004x0004x0000
+orgOrderId: 
+execId: 12fd7a5c-80ae-0000-0054-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 12422000
+lastQuantity: -2000000
+leavesQuantity: 0
+cumQuantity: -2000000
+placePrice: 12422000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:25:28.640
+rule_id: OK
+secondaryOrderId: 56761
+secondaryClOrdId: P3MUFRx12x0094100x0M1Jx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 4
+order_type = ORDER_MARKET
+instrument = USDJPY
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ORDER_MARKET request
+after order.createOrder -- >ORDER_MARKET request
+instrument: USDJPY
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 12422000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  marketOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000005x0005x0000
+Order getOrderSentTime returned: 20180206-08:25:33.597597
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000005x0005x0000 execution report:EXEC_REPORT_REJECTED order status:ORDER_STATUS_REJECTED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:Order type is unsupported. supported values: 2
+instrumentFhHandle: 3
+instrumentName: USDJPY
+orderId: P3PZCNx54x0000005x0005x0000
+orgOrderId: 
+execId: 20180206-08:25:33.601382-387
+execType: EXEC_REPORT_REJECTED
+orderStatus: ORDER_STATUS_REJECTED
+rejectReason: REJECT_REASON_BROKER_OPTION
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 0
+cumQuantity: 0
+placePrice: -1
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:25:33.601
+rule_id: OK
+secondaryOrderId: 
+secondaryClOrdId: 
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 5
+order_type = ORDER_LIMIT
+instrument = USDJPY
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDJPY
+Empty book
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDJPY
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 12422000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 130
+Order getClientOrderId returned: P3PZCNx54x0000006x0006x0000
+Order getOrderSentTime returned: ********TIME N/A********
+Error sending order: ERR_NEW_ORDER_DP_MISMATCH
+i = 6
+order_type = ORDER_MARKET
+instrument = USDJPY
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ORDER_MARKET request
+after order.createOrder -- >ORDER_MARKET request
+instrument: USDJPY
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 12422000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  marketOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000007x0007x0000
+Order getOrderSentTime returned: 20180206-08:25:53.600325
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000007x0007x0000 execution report:EXEC_REPORT_REJECTED order status:ORDER_STATUS_REJECTED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:Order type is unsupported. supported values: 2
+instrumentFhHandle: 3
+instrumentName: USDJPY
+orderId: P3PZCNx54x0000007x0007x0000
+orgOrderId: 
+execId: 20180206-08:25:53.604112-389
+execType: EXEC_REPORT_REJECTED
+orderStatus: ORDER_STATUS_REJECTED
+rejectReason: REJECT_REASON_BROKER_OPTION
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 0
+cumQuantity: 0
+placePrice: -1
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:25:53.604
+rule_id: OK
+secondaryOrderId: 
+secondaryClOrdId: 
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 7
+order_type = ORDER_LIMIT
+instrument = USDJPY
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDJPY
+Empty book
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDJPY
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 12422000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 130
+Order getClientOrderId returned: P3PZCNx54x0000008x0008x0000
+Order getOrderSentTime returned: ********TIME N/A********
+Error sending order: ERR_NEW_ORDER_DP_MISMATCH
+i = 8
+order_type = ORDER_LIMIT
+instrument = GBPUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for GBPUSD
+Top of book: {
+ Ask: 13977000 Quantity: 16000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: GBPUSD
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 13977000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000009x0009x0000
+Order getOrderSentTime returned: 20180206-08:26:13.603000
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000009x0009x0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 4
+instrumentName: GBPUSD
+orderId: P3PZCNx54x0000009x0009x0000
+orgOrderId: 
+execId: 12fd7a5c-80d4-0000-0056-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 13977000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:13.646
+rule_id: OK
+secondaryOrderId: 55590
+secondaryClOrdId: P3MUFRx12x0094106x0M1Px0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000009x0009x0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 4
+instrumentName: GBPUSD
+orderId: P3PZCNx54x0000009x0009x0000
+orgOrderId: 
+execId: 12fd7a5c-80d4-0000-0056-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 13977000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 13977000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:13.646
+rule_id: OK
+secondaryOrderId: 55590
+secondaryClOrdId: P3MUFRx12x0094106x0M1Px0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 9
+order_type = ORDER_LIMIT
+instrument = GBPUSD
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for GBPUSD
+Top of book: {
+ Bid: 13972000 Quantity: 45000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: GBPUSD
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 13972000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000010x000Ax0000
+Order getOrderSentTime returned: 20180206-08:26:23.605611
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000010x000Ax0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 4
+instrumentName: GBPUSD
+orderId: P3PZCNx54x0000010x000Ax0000
+orgOrderId: 
+execId: 12fd7a5c-80e9-0000-0058-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 13972000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:23.649
+rule_id: OK
+secondaryOrderId: 55591
+secondaryClOrdId: P3MUFRx12x0094108x0M1Rx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000010x000Ax0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 4
+instrumentName: GBPUSD
+orderId: P3PZCNx54x0000010x000Ax0000
+orgOrderId: 
+execId: 12fd7a5c-80e9-0000-0058-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 13972000
+lastQuantity: -2000000
+leavesQuantity: 0
+cumQuantity: -2000000
+placePrice: 13972000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:23.649
+rule_id: OK
+secondaryOrderId: 55591
+secondaryClOrdId: P3MUFRx12x0094108x0M1Rx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 10
+order_type = ORDER_MARKET
+instrument = GBPUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ORDER_MARKET request
+after order.createOrder -- >ORDER_MARKET request
+instrument: GBPUSD
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 13972000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  marketOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000011x000Bx0000
+Order getOrderSentTime returned: 20180206-08:26:33.608136
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000011x000Bx0000 execution report:EXEC_REPORT_REJECTED order status:ORDER_STATUS_REJECTED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:Order type is unsupported. supported values: 2
+instrumentFhHandle: 4
+instrumentName: GBPUSD
+orderId: P3PZCNx54x0000011x000Bx0000
+orgOrderId: 
+execId: 20180206-08:26:33.611928-393
+execType: EXEC_REPORT_REJECTED
+orderStatus: ORDER_STATUS_REJECTED
+rejectReason: REJECT_REASON_BROKER_OPTION
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 0
+cumQuantity: 0
+placePrice: -1
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:33.611
+rule_id: OK
+secondaryOrderId: 
+secondaryClOrdId: 
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 11
+order_type = ORDER_LIMIT
+instrument = USDCHF
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDCHF
+Top of book: {
+ Ask: 9327000 Quantity: 1000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDCHF
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 9327000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000012x000Cx0000
+Order getOrderSentTime returned: 20180206-08:26:43.610550
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000012x000Cx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000012x000Cx0000
+orgOrderId: 
+execId: 12fd7a5c-80fd-0000-005a-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 9327000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:43.654
+rule_id: OK
+secondaryOrderId: 37443
+secondaryClOrdId: P3MUFRx12x0094112x0M1Vx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000012x000Cx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000012x000Cx0000
+orgOrderId: 
+execId: 12fd7a5c-80fd-0000-005a-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 9327000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 9327000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:43.654
+rule_id: OK
+secondaryOrderId: 37443
+secondaryClOrdId: P3MUFRx12x0094112x0M1Vx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 12
+order_type = ORDER_LIMIT
+instrument = USDCHF
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDCHF
+Top of book: {
+ Bid: 9321000 Quantity: 1000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDCHF
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 9321000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000013x000Dx0000
+Order getOrderSentTime returned: 20180206-08:26:53.613072
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000013x000Dx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000013x000Dx0000
+orgOrderId: 
+execId: 12fd7a5c-8109-0000-005c-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 9321000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:53.656
+rule_id: OK
+secondaryOrderId: 37452
+secondaryClOrdId: P3MUFRx12x0094114x0M1Xx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000013x000Dx0000 execution report:EXEC_REPORT_PARTIALLY_FILLED order status:ORDER_STATUS_PARTIALLY_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000013x000Dx0000
+orgOrderId: 
+execId: 12fd7a5c-8109-0000-005c-002481817554
+execType: EXEC_REPORT_PARTIALLY_FILLED
+orderStatus: ORDER_STATUS_PARTIALLY_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 9321000
+lastQuantity: -1000000
+leavesQuantity: -1000000
+cumQuantity: -1000000
+placePrice: 9321000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:26:53.657
+rule_id: OK
+secondaryOrderId: 37452
+secondaryClOrdId: P3MUFRx12x0094114x0M1Xx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 13
+order_type = ORDER_LIMIT
+instrument = AUDUSD
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for AUDUSD
+Top of book: {
+ Ask: 7878000 Quantity: 33000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: AUDUSD
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 7878000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000014x000Ex0000
+Order getOrderSentTime returned: 20180206-08:27:03.615585
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000014x000Ex0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 12
+instrumentName: AUDUSD
+orderId: P3PZCNx54x0000014x000Ex0000
+orgOrderId: 
+execId: 12fd7a5c-8116-0000-005e-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 7878000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:03.658
+rule_id: OK
+secondaryOrderId: 57355
+secondaryClOrdId: P3MUFRx12x0094116x0M1Zx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000014x000Ex0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 12
+instrumentName: AUDUSD
+orderId: P3PZCNx54x0000014x000Ex0000
+orgOrderId: 
+execId: 12fd7a5c-8116-0000-005e-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 7878000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 7878000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:03.659
+rule_id: OK
+secondaryOrderId: 57355
+secondaryClOrdId: P3MUFRx12x0094116x0M1Zx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000013x000Dx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000013x000Dx0000
+orgOrderId: 
+execId: 12fdc483-13df-0000-8e9e-0025b3a63c5e
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 9321000
+lastQuantity: -1000000
+leavesQuantity: 0
+cumQuantity: -2000000
+placePrice: 9321000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:11.129
+rule_id: OK
+secondaryOrderId: 37452
+secondaryClOrdId: P3MUFRx12x0094114x0M1Xx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 14
+order_type = ORDER_LIMIT
+instrument = AUDUSD
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 5
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for AUDUSD
+Top of book: {
+ Bid: 7875000 Quantity: 3000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: AUDUSD
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 7875000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 5
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000015x000Fx0000
+Order getOrderSentTime returned: 20180206-08:27:13.618366
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000015x000Fx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 12
+instrumentName: AUDUSD
+orderId: P3PZCNx54x0000015x000Fx0000
+orgOrderId: 
+execId: 12fd7a5c-811c-0000-0061-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 7875000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:13.661
+rule_id: OK
+secondaryOrderId: 57366
+secondaryClOrdId: P3MUFRx12x0094118x0M21x0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000015x000Fx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 12
+instrumentName: AUDUSD
+orderId: P3PZCNx54x0000015x000Fx0000
+orgOrderId: 
+execId: 12fd7a5c-811c-0000-0061-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 7875000
+lastQuantity: -2000000
+leavesQuantity: 0
+cumQuantity: -2000000
+placePrice: 7875000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:13.662
+rule_id: OK
+secondaryOrderId: 57366
+secondaryClOrdId: P3MUFRx12x0094118x0M21x0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 15
+order_type = ORDER_LIMIT
+instrument = USDMXN
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDMXN
+Top of book: {
+ Ask: 188170000 Quantity: 24000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDMXN
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 188170000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000016x000Gx0000
+Order getOrderSentTime returned: 20180206-08:27:18.619934
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000016x000Gx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000016x000Gx0000
+orgOrderId: 
+execId: 12fd7a5c-8124-0000-0063-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 188170000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:18.663
+rule_id: OK
+secondaryOrderId: 46412
+secondaryClOrdId: P3MUFRx12x0094120x0M23x0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000016x000Gx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000016x000Gx0000
+orgOrderId: 
+execId: 12fd7a5c-8124-0000-0063-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 188170000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 188170000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:18.664
+rule_id: OK
+secondaryOrderId: 46412
+secondaryClOrdId: P3MUFRx12x0094120x0M23x0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 16
+order_type = ORDER_MARKET
+instrument = USDMXN
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ORDER_MARKET request
+after order.createOrder -- >ORDER_MARKET request
+instrument: USDMXN
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 188170000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  marketOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000017x000Hx0000
+Order getOrderSentTime returned: 20180206-08:27:23.626507
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000017x000Hx0000 execution report:EXEC_REPORT_REJECTED order status:ORDER_STATUS_REJECTED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:Order type is unsupported. supported values: 2
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000017x000Hx0000
+orgOrderId: 
+execId: 20180206-08:27:23.630311-400
+execType: EXEC_REPORT_REJECTED
+orderStatus: ORDER_STATUS_REJECTED
+rejectReason: REJECT_REASON_BROKER_OPTION
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 0
+cumQuantity: 0
+placePrice: -1
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:23.630
+rule_id: OK
+secondaryOrderId: 
+secondaryClOrdId: 
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 17
+order_type = ORDER_LIMIT
+instrument = USDMXN
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDMXN
+Top of book: {
+ Bid: 188115000 Quantity: 2000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDMXN
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 188115000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000018x000Ix0000
+Order getOrderSentTime returned: 20180206-08:27:28.643744
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000018x000Ix0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000018x000Ix0000
+orgOrderId: 
+execId: 12fd7a5c-812d-0000-0065-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 188115000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:28.687
+rule_id: OK
+secondaryOrderId: 46423
+secondaryClOrdId: P3MUFRx12x0094124x0M27x0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000018x000Ix0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000018x000Ix0000
+orgOrderId: 
+execId: 12fd7a5c-812d-0000-0065-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 188115000
+lastQuantity: -2000000
+leavesQuantity: 0
+cumQuantity: -2000000
+placePrice: 188115000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:28.687
+rule_id: OK
+secondaryOrderId: 46423
+secondaryClOrdId: P3MUFRx12x0094124x0M27x0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 18
+order_type = ORDER_MARKET
+instrument = USDRUB
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 5
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ORDER_MARKET request
+after order.createOrder -- >ORDER_MARKET request
+instrument: USDRUB
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 188115000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 5
+call  marketOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000019x000Jx0000
+Order getOrderSentTime returned: 20180206-08:27:33.645468
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000019x000Jx0000 execution report:EXEC_REPORT_REJECTED order status:ORDER_STATUS_REJECTED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:Order type is unsupported. supported values: 2
+instrumentFhHandle: 157
+instrumentName: USDRUB
+orderId: P3PZCNx54x0000019x000Jx0000
+orgOrderId: 
+execId: 20180206-08:27:33.649273-403
+execType: EXEC_REPORT_REJECTED
+orderStatus: ORDER_STATUS_REJECTED
+rejectReason: REJECT_REASON_BROKER_OPTION
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 0
+cumQuantity: 0
+placePrice: -1
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:33.649
+rule_id: OK
+secondaryOrderId: 
+secondaryClOrdId: 
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 19
+order_type = ORDER_LIMIT
+instrument = USDRUB
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDRUB
+Top of book: {
+ Ask: 571250000 Quantity: 1000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDRUB
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 571250000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000020x000Kx0000
+Order getOrderSentTime returned: 20180206-08:27:38.646805
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000020x000Kx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 157
+instrumentName: USDRUB
+orderId: P3PZCNx54x0000020x000Kx0000
+orgOrderId: 
+execId: 12fd7a5c-8131-0000-0067-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 571250000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:38.690
+rule_id: OK
+secondaryOrderId: 1028
+secondaryClOrdId: P3MUFRx12x0094128x0M2Bx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000020x000Kx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 157
+instrumentName: USDRUB
+orderId: P3PZCNx54x0000020x000Kx0000
+orgOrderId: 
+execId: 12fd7a5c-8131-0000-0067-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 571250000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 571250000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:38.690
+rule_id: OK
+secondaryOrderId: 1028
+secondaryClOrdId: P3MUFRx12x0094128x0M2Bx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 20
+order_type = ORDER_LIMIT
+instrument = USDRUB
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDRUB
+Top of book: {
+ Bid: 570950000 Quantity: 3000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDRUB
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 570950000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000021x000Lx0000
+Order getOrderSentTime returned: 20180206-08:27:43.648503
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000021x000Lx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 157
+instrumentName: USDRUB
+orderId: P3PZCNx54x0000021x000Lx0000
+orgOrderId: 
+execId: 12fd7a5c-813b-0000-0069-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 570950000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:43.691
+rule_id: OK
+secondaryOrderId: 1029
+secondaryClOrdId: P3MUFRx12x0094130x0M2Dx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000021x000Lx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 157
+instrumentName: USDRUB
+orderId: P3PZCNx54x0000021x000Lx0000
+orgOrderId: 
+execId: 12fd7a5c-813b-0000-0069-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 570950000
+lastQuantity: -2000000
+leavesQuantity: 0
+cumQuantity: -2000000
+placePrice: 570950000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:43.692
+rule_id: OK
+secondaryOrderId: 1029
+secondaryClOrdId: P3MUFRx12x0094130x0M2Dx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 21
+order_type = ORDER_LIMIT
+instrument = EURCZK
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for EURCZK
+Empty book
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: EURCZK
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 570950000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000022x000Mx0000
+Order getOrderSentTime returned: 20180206-08:27:53.651064
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000022x000Mx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 70
+instrumentName: EURCZK
+orderId: P3PZCNx54x0000022x000Mx0000
+orgOrderId: 
+execId: 12fd7a5c-814f-0000-006b-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 570950000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:53.694
+rule_id: OK
+secondaryOrderId: 11101
+secondaryClOrdId: P3MUFRx12x0094132x0M2Fx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000022x000Mx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 70
+instrumentName: EURCZK
+orderId: P3PZCNx54x0000022x000Mx0000
+orgOrderId: 
+execId: 12fd7a5c-814f-0000-006b-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 252220000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 570950000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:27:53.694
+rule_id: OK
+secondaryOrderId: 11101
+secondaryClOrdId: P3MUFRx12x0094132x0M2Fx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 22
+order_type = ORDER_MARKET
+instrument = EURCZK
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ORDER_MARKET request
+after order.createOrder -- >ORDER_MARKET request
+instrument: EURCZK
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 570950000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  marketOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000023x000Nx0000
+Order getOrderSentTime returned: 20180206-08:28:03.653647
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000023x000Nx0000 execution report:EXEC_REPORT_REJECTED order status:ORDER_STATUS_REJECTED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:Order type is unsupported. supported values: 2
+instrumentFhHandle: 70
+instrumentName: EURCZK
+orderId: P3PZCNx54x0000023x000Nx0000
+orgOrderId: 
+execId: 20180206-08:28:03.657497-408
+execType: EXEC_REPORT_REJECTED
+orderStatus: ORDER_STATUS_REJECTED
+rejectReason: REJECT_REASON_BROKER_OPTION
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 0
+cumQuantity: 0
+placePrice: -1
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:03.657
+rule_id: OK
+secondaryOrderId: 
+secondaryClOrdId: 
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 23
+order_type = ORDER_LIMIT
+instrument = EURCZK
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for EURCZK
+Empty book
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: EURCZK
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 570950000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000024x000Ox0000
+Order getOrderSentTime returned: 20180206-08:28:13.656170
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000024x000Ox0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 70
+instrumentName: EURCZK
+orderId: P3PZCNx54x0000024x000Ox0000
+orgOrderId: 
+execId: 12fd7a5c-815d-0000-006d-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 570950000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:13.699
+rule_id: OK
+secondaryOrderId: 11112
+secondaryClOrdId: P3MUFRx12x0094136x0M2Jx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 24
+order_type = ORDER_LIMIT
+instrument = USDMXN
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDMXN
+Top of book: {
+ Ask: 188150000 Quantity: 24000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDMXN
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 188150000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000025x000Px0000
+Order getOrderSentTime returned: 20180206-08:28:23.658631
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000025x000Px0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000025x000Px0000
+orgOrderId: 
+execId: 12fd7a5c-816c-0000-006e-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 188150000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:23.702
+rule_id: OK
+secondaryOrderId: 46454
+secondaryClOrdId: P3MUFRx12x0094138x0M2Lx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000025x000Px0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000025x000Px0000
+orgOrderId: 
+execId: 12fd7a5c-816c-0000-006e-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 188150000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 188150000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:23.702
+rule_id: OK
+secondaryOrderId: 46454
+secondaryClOrdId: P3MUFRx12x0094138x0M2Lx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 25
+order_type = ORDER_LIMIT
+instrument = USDMXN
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDMXN
+Top of book: {
+ Bid: 188065000 Quantity: 6000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDMXN
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 188065000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000026x000Qx0000
+Order getOrderSentTime returned: 20180206-08:28:33.661229
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000026x000Qx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000026x000Qx0000
+orgOrderId: 
+execId: 12fd7a5c-8175-0000-0070-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 188065000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:33.704
+rule_id: OK
+secondaryOrderId: 46455
+secondaryClOrdId: P3MUFRx12x0094140x0M2Nx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000026x000Qx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 151
+instrumentName: USDMXN
+orderId: P3PZCNx54x0000026x000Qx0000
+orgOrderId: 
+execId: 12fd7a5c-8175-0000-0070-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 188065000
+lastQuantity: -2000000
+leavesQuantity: 0
+cumQuantity: -2000000
+placePrice: 188065000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:33.704
+rule_id: OK
+secondaryOrderId: 46455
+secondaryClOrdId: P3MUFRx12x0094140x0M2Nx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 26
+order_type = ORDER_LIMIT
+instrument = USDCHF
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDCHF
+Top of book: {
+ Ask: 9327000 Quantity: 3000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDCHF
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 9327000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000027x000Rx0000
+Order getOrderSentTime returned: 20180206-08:28:43.663830
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000027x000Rx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000027x000Rx0000
+orgOrderId: 
+execId: 12fd7a5c-817b-0000-0072-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 9327000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:43.707
+rule_id: OK
+secondaryOrderId: 37493
+secondaryClOrdId: P3MUFRx12x0094142x0M2Px0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000027x000Rx0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000027x000Rx0000
+orgOrderId: 
+execId: 12fd7a5c-817b-0000-0072-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 9327000
+lastQuantity: 1000000
+leavesQuantity: 0
+cumQuantity: 1000000
+placePrice: 9327000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:43.707
+rule_id: OK
+secondaryOrderId: 37493
+secondaryClOrdId: P3MUFRx12x0094142x0M2Px0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 27
+order_type = ORDER_LIMIT
+instrument = USDCHF
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = 10
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDCHF
+Top of book: {
+ Bid: 9325000 Quantity: 1000000
+}
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDCHF
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 9325000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: 10
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000028x000Sx0000
+Order getOrderSentTime returned: 20180206-08:28:53.666407
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000028x000Sx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000028x000Sx0000
+orgOrderId: 
+execId: 12fd7a5c-8186-0000-0074-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 9325000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:53.709
+rule_id: OK
+secondaryOrderId: 37502
+secondaryClOrdId: P3MUFRx12x0094144x0M2Rx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000028x000Sx0000 execution report:EXEC_REPORT_PARTIALLY_FILLED order status:ORDER_STATUS_PARTIALLY_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 6
+instrumentName: USDCHF
+orderId: P3PZCNx54x0000028x000Sx0000
+orgOrderId: 
+execId: 12fd7a5c-8186-0000-0074-002481817554
+execType: EXEC_REPORT_PARTIALLY_FILLED
+orderStatus: ORDER_STATUS_PARTIALLY_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 9325000
+lastQuantity: -1000000
+leavesQuantity: -1000000
+cumQuantity: -1000000
+placePrice: 9325000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:28:53.710
+rule_id: OK
+secondaryOrderId: 37502
+secondaryClOrdId: P3MUFRx12x0094144x0M2Rx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 28
+order_type = ORDER_LIMIT
+instrument = USDZAR
+limit_price = -1
+quantity = 1000000
+side = SIDE_BUY
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDZAR
+Empty book
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDZAR
+instrument is subscribed
+quantity: 1000000
+side: 1
+timeinforce: 48
+limit price: 9325000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000029x000Tx0000
+Order getOrderSentTime returned: 20180206-08:29:03.668827
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000029x000Tx0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 163
+instrumentName: USDZAR
+orderId: P3PZCNx54x0000029x000Tx0000
+orgOrderId: 
+execId: 12fd7a5c-8192-0000-0076-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: 1000000
+cumQuantity: 0
+placePrice: 9325000
+placeQuantity: 1000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:29:03.712
+rule_id: OK
+secondaryOrderId: 8509
+secondaryClOrdId: P3MUFRx12x0094146x0M2Tx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+i = 29
+order_type = ORDER_LIMIT
+instrument = USDZAR
+limit_price = -1
+quantity = 2000000
+side = SIDE_SELL
+timeinforce = TIMEINFORCE_DAY
+modify_price = -1
+modify_quantity = -1
+wait = -1
+cancel = -1
+**************************
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>> order <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+ Get last book for USDZAR
+Empty book
+ORDER_LIMIT request
+after order.createOrder -- >ORDER_LIMIT request
+instrument: USDZAR
+instrument is subscribed
+quantity: 2000000
+side: 2
+timeinforce: 48
+limit price: 9325000
+modify_quantity: -1
+modify_price: -1
+cancel: -1
+wait: -1
+call  limitOrder.set
+after ord.set returned 0
+call  sendOrder
+After LP1->sendOrder.   orderResult: 0
+Order getClientOrderId returned: P3PZCNx54x0000030x000Ux0000
+Order getOrderSentTime returned: 20180206-08:29:13.686700
+waiting for events
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000030x000Ux0000 execution report:EXEC_REPORT_NEW order status:ORDER_STATUS_NEW
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 163
+instrumentName: USDZAR
+orderId: P3PZCNx54x0000030x000Ux0000
+orgOrderId: 
+execId: 12fd7a5c-81a2-0000-0077-002481817554
+execType: EXEC_REPORT_NEW
+orderStatus: ORDER_STATUS_NEW
+rejectReason: REJECT_REASON_NONE
+lastPrice: -1
+lastQuantity: 0
+leavesQuantity: -2000000
+cumQuantity: 0
+placePrice: 9325000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:29:13.730
+rule_id: OK
+secondaryOrderId: 8510
+secondaryClOrdId: P3MUFRx12x0094148x0M2Vx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000030x000Ux0000 execution report:EXEC_REPORT_PARTIALLY_FILLED order status:ORDER_STATUS_PARTIALLY_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 163
+instrumentName: USDZAR
+orderId: P3PZCNx54x0000030x000Ux0000
+orgOrderId: 
+execId: 12fd7a5c-81a2-0000-0077-002481817554
+execType: EXEC_REPORT_PARTIALLY_FILLED
+orderStatus: ORDER_STATUS_PARTIALLY_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 120750000
+lastQuantity: -1000000
+leavesQuantity: -1000000
+cumQuantity: -1000000
+placePrice: 9325000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:29:13.730
+rule_id: OK
+secondaryOrderId: 8510
+secondaryClOrdId: P3MUFRx12x0094148x0M2Vx0000
+********************** EVENT END ************************
+*********************************************************
+New Trading event: 14:EVENT_EXECUTION_REPORT
+ => Order P3PZCNx54x0000030x000Ux0000 execution report:EXEC_REPORT_FILLED order status:ORDER_STATUS_FILLED
+matchStatus: MATCH_STATUS_IRRELEVANT
+
+*********************************************************
+********************** EVENT START **********************
+lpId: LP_FLUENT_TAKER
+strategyId: -1
+eventType: EVENT_EXECUTION_REPORT
+message:
+instrumentFhHandle: 163
+instrumentName: USDZAR
+orderId: P3PZCNx54x0000030x000Ux0000
+orgOrderId: 
+execId: 12fd7a5c-81a2-0000-0077-002481817554
+execType: EXEC_REPORT_FILLED
+orderStatus: ORDER_STATUS_FILLED
+rejectReason: REJECT_REASON_NONE
+lastPrice: 120700000
+lastQuantity: -1000000
+leavesQuantity: 0
+cumQuantity: -2000000
+placePrice: 9325000
+placeQuantity: -2000000
+matchStatus: MATCH_STATUS_IRRELEVANT
+transactTime: 20180206-08:29:13.730
+rule_id: OK
+secondaryOrderId: 8510
+secondaryClOrdId: P3MUFRx12x0094148x0M2Vx0000
+********************** EVENT END ************************
+*********************************************************
+after event loop
+Disconnecting
